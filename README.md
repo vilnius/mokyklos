@@ -1,8 +1,7 @@
-# mokyklos
-##Information about Vilniaus City schools
-##Galimi prioritetai.csv - priority criteria of schools
-##Mokiniai.csv - Childrens in Vilnius city schools (class, language, School name)
-##Mokyklu prasymai.csv - Applications of Vilnius City schools
+# Mokyklos/Schools - Information about Vilniaus City schools
+1. Galimi prioritetai.csv - priority criteria of schools
+2. Mokiniai.csv - Childrens in Vilnius city schools (class, language, School name)
+3. Mokyklu prasymai.csv - Applications of Vilnius City schools
 
 
 ##GIS services:
