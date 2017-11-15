@@ -31880,7 +31880,7 @@ PRASYMO_ID;PRASYMO_PATEIKIMO_DATA;LANKYTI_NUO;ISTAIGA;ISTAIGOS_KODAS;KALBA;PAGEI
 17473;"2017-09-05 15:05:43";2017-09-25;"Vilniaus ""Santaros"" progimnazija";304089978;ru;5;716;17;2017-09-03;G1
 17474;"2017-09-05 17:38:59";2018-09-01;"Vilniaus Sofijos Kovalevskajos progimnazija";304075156;ru;5;585;18;2008-02-05;G1
 17475;"2017-09-05 20:45:01";2018-09-01;"Vilniaus Gabijos gimnazija";190003513;lt;1;125;7;2011-08-08;G1
-17476;"2017-09-05 21:22:44";2017-10-02;"Vilniaus Gedimino technikos universiteto inžinerijos licėjus";190001843;lt;1;836;666;2012-02-08;G1
+17476;"2017-09-05 21:22:44";2017-12-01;"Vilniaus Gedimino technikos universiteto inžinerijos licėjus";190001843;lt;1;836;666;2012-02-08;G1
 17477;"2017-09-06 09:26:31";2017-09-07;"Vilniaus ""Židinio"" suaugusiųjų gimnazija";190009733;lt;12;;;;
 17478;"2017-09-06 10:48:16";2018-09-01;"Vilniaus Martyno Mažvydo progimnazija";195003862;lt;1;170;12;2011-09-20;G1
 17478;"2017-09-06 10:48:16";2018-09-01;"Vilniaus ""Genio"" progimnazija";191665719;lt;1;170;12;2011-09-20;G1
@@ -32164,7 +32164,7 @@ PRASYMO_ID;PRASYMO_PATEIKIMO_DATA;LANKYTI_NUO;ISTAIGA;ISTAIGOS_KODAS;KALBA;PAGEI
 17669;"2017-10-10 18:56:58";2018-09-01;"Vilniaus Vladislavo Sirokomlės gimnazija";190001462;pl;1;643;12;2012-10-11;G1
 17670;"2017-10-10 19:48:13";2018-09-01;"Vilniaus ""Ąžuolyno"" progimnazija";190006395;lt;5;117;11;2008-01-02;G1
 17671;"2017-10-10 20:09:14";2018-09-01;"Vilniaus ""Ąžuolyno"" progimnazija";190006395;lt;5;117;11;2008-01-02;G1
-17672;"2017-10-11 12:05:09";2018-01-01;"Vilniaus ""Santaros"" progimnazija";304089978;ru;4;2969;13;2014-09-26;G1
+17672;"2017-10-11 12:05:09";2018-09-01;"Vilniaus ""Santaros"" progimnazija";304089978;ru;4;2969;13;2014-09-26;G1
 17673;"2017-10-11 13:40:36";2018-09-01;"Vilniaus Gedimino technikos universiteto inžinerijos licėjus";190001843;lt;1;425;13;2015-11-08;G1
 17674;"2017-10-11 15:05:29";2017-10-12;"Vilniaus Sofijos Kovalevskajos progimnazija";304075156;ru;4;2790;12;2017-07-26;G1
 17675;"2017-10-11 16:11:43";2018-09-01;"Vilniaus Žvėryno gimnazija";190001081;lt;5;477;6;2017-01-29;G1
@@ -32211,9 +32211,9 @@ PRASYMO_ID;PRASYMO_PATEIKIMO_DATA;LANKYTI_NUO;ISTAIGA;ISTAIGOS_KODAS;KALBA;PAGEI
 17707;"2017-10-18 16:31:12";2018-09-01;"Vilniaus ""Ąžuolyno"" progimnazija";190006395;lt;1;27;11;2016-08-18;G1
 17708;"2017-10-18 18:36:28";2017-10-23;"Vilniaus Sofijos Kovalevskajos gimnazija";304075188;ru;11;547;12;2015-09-07;G1
 17709;"2017-10-18 23:27:32";2018-09-01;"Vilniaus Jono Pauliaus II progimnazija";195472315;pl;1;1618;12;2011-08-25;G1
-17710;"2017-10-18 23:55:04";2018-01-08;"Vilniaus ""Genio"" progimnazija";191665719;lt;1;207;17;2010-12-16;G1
-17710;"2017-10-18 23:55:04";2018-01-08;"Vilniaus Jono Basanavičiaus progimnazija";302523034;lt;1;207;17;2010-12-16;G1
-17710;"2017-10-18 23:55:04";2018-01-08;"Vilniaus Simono Daukanto progimnazija";301806638;lt;1;207;17;2010-12-16;G1
+17710;"2017-10-18 23:55:04";2018-09-01;"Vilniaus ""Genio"" progimnazija";191665719;lt;2;207;17;2010-12-16;G1
+17710;"2017-10-18 23:55:04";2018-09-01;"Vilniaus Jono Basanavičiaus progimnazija";302523034;lt;2;207;17;2010-12-16;G1
+17710;"2017-10-18 23:55:04";2018-09-01;"Vilniaus Simono Daukanto progimnazija";301806638;lt;2;207;17;2010-12-16;G1
 17711;"2017-10-19 09:44:06";2018-09-01;"Vilniaus Filaretų pradinė mokykla";190004234;lt;1;123;15;2011-08-16;G1
 17712;"2017-10-19 11:20:06";2017-10-20;"Vilniaus ""Židinio"" suaugusiųjų gimnazija";190009733;lt;12;479;19;2017-06-28;G1
 17713;"2017-10-19 12:09:15";2017-10-23;"Vilniaus ""Židinio"" suaugusiųjų gimnazija";190009733;lt;11;686;14;2011-11-15;G1
@@ -32322,6 +32322,9 @@ PRASYMO_ID;PRASYMO_PATEIKIMO_DATA;LANKYTI_NUO;ISTAIGA;ISTAIGOS_KODAS;KALBA;PAGEI
 17779;"2017-11-06 15:16:21";2018-09-01;"Vilniaus Levo Karsavino mokykla";190002411;ru;5;109;5;2016-08-10;G1
 17779;"2017-11-06 15:16:21";2018-09-01;"Vilniaus Aleksandro Puškino mokykla";190003470;ru;5;109;5;2016-08-10;G1
 17780;"2017-11-06 22:41:18";2018-09-01;"Vilniaus Filaretų pradinė mokykla";190004234;lt;1;123;15;2017-03-14;G1
+17780;"2017-11-06 22:41:18";2018-09-01;"Vilniaus Petro Vileišio progimnazija";195008119;lt;1;123;15;2017-03-14;G1
+17780;"2017-11-06 22:41:18";2018-09-01;"Vilniaus Vytės Nemunėlio pradinė mokykla";195472468;lt;1;123;15;2017-03-14;G1
+17780;"2017-11-06 22:41:18";2018-09-01;"Vilniaus Gedimino technikos universiteto inžinerijos licėjus";190001843;lt;1;123;15;2017-03-14;G1
 17781;"2017-11-07 10:31:01";2018-09-01;"Vilniaus ""Genio"" progimnazija";191665719;lt;1;277;6;2016-07-01;G1
 17782;"2017-11-07 10:41:46";2018-09-01;"Vilniaus Gedimino technikos universiteto inžinerijos licėjus";190001843;lt;1;2268;13;2015-01-05;G1
 17782;"2017-11-07 10:41:46";2018-09-01;"Vilniaus Volungės darželis-mokykla";191713046;lt;1;2268;13;2015-01-05;G1
@@ -32343,3 +32346,76 @@ PRASYMO_ID;PRASYMO_PATEIKIMO_DATA;LANKYTI_NUO;ISTAIGA;ISTAIGOS_KODAS;KALBA;PAGEI
 17788;"2017-11-07 15:59:17";2017-11-13;"Vilniaus Simono Konarskio mokykla";190005140;pl;3;;;;
 17789;"2017-11-07 20:31:50";2018-09-01;"Vilniaus Martyno Mažvydo progimnazija";195003862;lt;1;629;12;2011-09-28;G1
 17790;"2017-11-07 20:33:06";2018-09-01;"Vilniaus Abraomo Kulviečio klasikinė gimnazija";195005870;lt;1;1135;4;2011-11-28;G1
+17791;"2017-11-08 07:19:04";2018-09-01;"Vilniaus Žvėryno gimnazija";190001081;lt;5;;;;
+17791;"2017-11-08 07:19:04";2018-09-01;"Vilniaus ""Genio"" progimnazija";191665719;lt;5;;;;
+17791;"2017-11-08 07:19:04";2018-09-01;"Vilniaus Martyno Mažvydo progimnazija";195003862;lt;5;;;;
+17792;"2017-11-08 07:44:20";2019-09-02;"Vilniaus Žemynos progimnazija";295472120;lt;1;272;7;2013-01-31;G1
+17792;"2017-11-08 07:44:20";2019-09-02;"Vilniaus ""Aušros"" mokykla-darželis";190032365;lt;1;272;7;2013-01-31;G1
+17792;"2017-11-08 07:44:20";2019-09-02;"Vilniaus Medeinos pradinė mokykla";190032746;lt;1;272;7;2013-01-31;G1
+17792;"2017-11-08 07:44:20";2019-09-02;"Vilniaus Fabijoniškių mokykla";190003851;lt;1;272;7;2013-01-31;G1
+17792;"2017-11-08 07:44:20";2019-09-02;"Vilniaus ""Šviesos"" pradinė mokykla";191665480;lt;1;272;7;2013-01-31;G1
+17793;"2017-11-08 09:30:15";2018-09-01;"Vilniaus Vytės Nemunėlio pradinė mokykla";195472468;lt;1;488;16;2016-04-27;G1
+17794;"2017-11-08 15:02:11";2018-09-01;"Vilniaus ""Genio"" progimnazija";191665719;lt;1;161;6;2011-03-30;G1
+17795;"2017-11-08 15:29:59";2018-09-01;"Vilniaus Fabijoniškių mokykla";190003851;lt;1;266;4;2017-03-29;G1
+17795;"2017-11-08 15:29:59";2018-09-01;"Vilniaus Abraomo Kulviečio klasikinė gimnazija";195005870;lt;1;266;4;2017-03-29;G1
+17795;"2017-11-08 15:29:59";2018-09-01;"Vilniaus Simono Stanevičiaus progimnazija";290008970;lt;1;266;4;2017-03-29;G1
+17795;"2017-11-08 15:29:59";2018-09-01;"Vilniaus Gabijos gimnazija";190003513;lt;1;266;4;2017-03-29;G1
+17796;"2017-11-08 16:06:41";2018-09-01;"Vilniaus ""Vyturio"" pradinė mokykla";190009167;lt;1;536;8;2011-10-04;G1
+17797;"2017-11-08 16:19:31";2019-09-01;"Vilniaus Balsių progimnazija";302589995;lt;1;2093;1;2017-03-13;G1
+17798;"2017-11-08 19:42:02";2018-09-01;"Vilniaus ""Ryto"" progimnazija";190006057;lt;1;610;10;2013-05-08;G1
+17798;"2017-11-08 19:42:02";2018-09-01;"Vilniaus Šolomo Aleichemo ORT gimnazija";190009352;lt;1;610;10;2013-05-08;G1
+17799;"2017-11-09 09:43:23";2017-11-10;"Vilniaus Tuskulėnų gimnazija";190002030;lt;9;1977;2;2008-11-27;G1
+17800;"2017-11-09 09:51:47";2018-09-01;"Vilniaus ""Genio"" progimnazija";191665719;lt;1;529;6;2013-03-18;G1
+17801;"2017-11-09 10:12:32";2017-11-10;"Vilniaus ""Židinio"" suaugusiųjų gimnazija";190009733;lt;12;2710;7;2010-07-27;G1
+17802;"2017-11-09 10:55:11";2018-09-01;"Vilniaus Sofijos Kovalevskajos progimnazija";304075156;ru;1;;;;
+17802;"2017-11-09 10:55:11";2018-09-01;"Vilniaus Aleksandro Puškino mokykla";190003470;ru;1;;;;
+17803;"2017-11-09 16:33:30";2019-09-01;"Vilniaus Šeškinės pradinė mokykla";191713384;lt;1;376;5;2016-05-19;G1
+17804;"2017-11-09 17:57:07";2018-09-01;"Vilniaus ""Sietuvos"" progimnazija";190008784;lt;1;2708;7;2015-10-13;G1
+17804;"2017-11-09 17:57:07";2018-09-01;"Vilniaus ""Vyturio"" pradinė mokykla";190009167;lt;1;2708;7;2015-10-13;G1
+17805;"2017-11-09 20:19:00";2018-01-20;"Vilniaus Tuskulėnų gimnazija";190002030;lt;11;216;1;2000-07-14;G1
+17806;"2017-11-10 09:24:46";2018-09-01;"Vilniaus Vladislavo Sirokomlės gimnazija";190001462;pl;1;266;4;2011-06-16;G1
+17807;"2017-11-10 09:40:54";2017-11-13;"Vilniaus Antakalnio gimnazija";302817872;lt;10;694;2;2003-02-26;G1
+17808;"2017-11-10 11:41:40";2017-11-13;"Vilniaus ""Genio"" progimnazija";191665719;lt;3;1;17;2017-06-21;G1
+17809;"2017-11-10 11:43:04";2017-11-13;"Vilniaus ""Genio"" progimnazija";191665719;lt;1;1;17;2017-06-21;G1
+17810;"2017-11-10 12:39:56";2018-09-01;"Vilniaus ""Pelėdos"" pradinė mokykla";190016165;lt;1;1960;7;2017-04-26;G1
+17810;"2017-11-10 12:39:56";2018-09-01;"Vilniaus Medeinos pradinė mokykla";190032746;lt;1;1960;7;2017-04-26;G1
+17810;"2017-11-10 12:39:56";2018-09-01;"Vilniaus ""Sietuvos"" progimnazija";190008784;lt;1;1960;7;2017-04-26;G1
+17810;"2017-11-10 12:39:56";2018-09-01;"Vilniaus ""Taikos"" progimnazija";195007889;lt;1;1960;7;2017-04-26;G1
+17810;"2017-11-10 12:39:56";2018-09-01;"Vilniaus Gabijos gimnazija";190003513;lt;1;1960;7;2017-04-26;G1
+17811;"2017-11-10 15:18:53";2017-11-13;"Vilniaus ""Saulėtekio"" mokykla-daugiafunkcis centras";190007497;ru;5;248;19;2014-03-28;G1
+17812;"2017-11-10 22:17:11";2018-09-01;"Vilniaus Sofijos Kovalevskajos progimnazija";304075156;ru;1;27;11;2011-09-22;G1
+17813;"2017-11-11 10:00:57";2018-09-01;"Vilniaus šv. Kristoforo progimnazija";302420714;lt;1;256;3;2012-03-14;G1
+17814;"2017-11-11 19:09:46";2018-09-01;"Vilniaus Filaretų pradinė mokykla";190004234;lt;1;123;15;2017-03-17;G1
+17815;"2017-11-12 11:42:34";2017-11-13;"Vilniaus Karoliniškių gimnazija";190008631;lt;11;;;;
+17816;"2017-11-12 13:33:21";2018-09-01;"Vilniaus Jono Pauliaus II progimnazija";195472315;pl;1;587;10;2011-09-29;G1
+17817;"2017-11-12 19:50:35";2018-09-01;"Vilniaus Jono Pauliaus II progimnazija";195472315;pl;1;536;8;2011-05-10;G1
+17818;"2017-11-12 20:43:49";2018-01-08;"Vilniaus Prano Mašioto pradinė mokykla";195008076;lt;3;376;5;2008-06-10;G1
+17819;"2017-11-13 10:05:30";2018-09-01;"Vilniaus Antakalnio progimnazija";302818006;lt;1;379;13;2011-10-13;G1
+17819;"2017-11-13 10:05:30";2018-09-01;"Vilniaus Gedimino technikos universiteto inžinerijos licėjus";190001843;lt;1;379;13;2011-10-13;G1
+17819;"2017-11-13 10:05:30";2018-09-01;"Vilniaus Prano Mašioto pradinė mokykla";195008076;lt;1;379;13;2011-10-13;G1
+17820;"2017-11-13 11:12:01";2018-09-01;"Vilniaus ""Genio"" progimnazija";191665719;lt;1;2154;13;2017-05-23;G1
+17820;"2017-11-13 11:12:01";2018-09-01;"Vilniaus Emilijos Pliaterytės progimnazija";195472653;lt;1;2154;13;2017-05-23;G1
+17821;"2017-11-13 11:31:30";2017-11-14;"Vilniaus ""Saulėtekio"" mokykla-daugiafunkcis centras";190007497;ru;1;1797;19;2010-10-08;G1
+17822;"2017-11-13 13:30:10";2018-09-01;"Vilniaus šv. Kristoforo progimnazija";302420714;lt;1;216;3;2017-10-03;G1
+17823;"2017-11-13 16:56:44";2018-09-01;"Vilniaus Levo Karsavino mokykla";190002411;ru;1;536;8;2011-08-05;G1
+17823;"2017-11-13 16:56:44";2018-09-01;"Vilniaus Sofijos Kovalevskajos progimnazija";304075156;ru;1;536;8;2011-08-05;G1
+17823;"2017-11-13 16:56:44";2018-09-01;"Vilniaus Aleksandro Puškino mokykla";190003470;ru;1;536;8;2011-08-05;G1
+17824;"2017-11-13 17:08:33";2018-09-01;"Vilniaus Sofijos Kovalevskajos progimnazija";304075156;ru;1;469;8;2016-03-16;G1
+17824;"2017-11-13 17:08:33";2018-09-01;"Vilniaus Aleksandro Puškino mokykla";190003470;ru;1;469;8;2016-03-16;G1
+17825;"2017-11-13 18:58:06";2018-09-01;"Vilniaus ""Santaros"" progimnazija";304089978;ru;5;694;2;2017-03-30;G1
+17826;"2017-11-13 20:31:20";2017-11-20;"Vilniaus Antakalnio gimnazija";302817872;lt;10;911;10;2007-08-08;G1
+17827;"2017-11-13 20:39:12";2017-11-19;"Vilniaus Antakalnio gimnazija";302817872;lt;10;2824;13;2015-03-19;G1
+17828;"2017-11-13 20:41:07";2019-09-01;"Vilniaus Balsių progimnazija";302589995;lt;1;2009;1;2017-01-30;G1
+17829;"2017-11-14 07:42:00";2018-09-01;"Vilniaus Filaretų pradinė mokykla";190004234;lt;2;123;15;2017-01-08;G1
+17830;"2017-11-14 11:16:26";2018-09-01;"Vilniaus Sofijos Kovalevskajos progimnazija";304075156;ru;1;536;8;2011-05-09;G1
+17830;"2017-11-14 11:16:26";2018-09-01;"Vilniaus Aleksandro Puškino mokykla";190003470;ru;1;536;8;2011-05-09;G1
+17830;"2017-11-14 11:16:26";2018-09-01;"Vilniaus ""Santaros"" progimnazija";304089978;ru;1;536;8;2011-05-09;G1
+17831;"2017-11-14 12:34:05";2018-09-01;"Vilniaus ""Pelėdos"" pradinė mokykla";190016165;lt;1;536;8;2011-03-02;G1
+17831;"2017-11-14 12:34:05";2018-09-01;"Vilniaus ""Taikos"" progimnazija";195007889;lt;1;536;8;2011-03-02;G1
+17831;"2017-11-14 12:34:05";2018-09-01;"Vilniaus ""Sietuvos"" progimnazija";190008784;lt;1;536;8;2011-03-02;G1
+17832;"2017-11-14 15:40:53";2018-09-01;"Vilniaus ""Taikos"" progimnazija";195007889;lt;5;536;8;2009-05-29;G1
+17833;"2017-11-14 16:33:17";2018-09-01;"Vilniaus Martyno Mažvydo progimnazija";195003862;lt;1;223;12;2011-10-10;G1
+17834;"2017-11-14 16:43:56";2018-09-01;"Vilniaus Sofijos Kovalevskajos progimnazija";304075156;ru;1;376;5;2016-12-14;G1
+17835;"2017-11-14 16:59:27";2017-11-15;"Vilniaus ""Židinio"" suaugusiųjų gimnazija";190009733;lt;11;89;19;2013-09-24;G1
+17836;"2017-11-14 20:02:05";2017-12-04;"Vilniaus Naujamiesčio mokykla";290004420;ru;4;2819;14;2014-04-07;G1
+17837;"2017-11-14 22:19:20";2018-09-01;"Vilniaus ""Taikos"" progimnazija";195007889;lt;1;2710;7;2011-10-05;G1
