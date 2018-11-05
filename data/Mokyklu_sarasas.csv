@@ -1,0 +1,131 @@
+id;name;code;address
+1;"Vilniaus ""Ateities"" mokykla";190003666;Nenustatyta
+2;"Vilniaus ""Atgajos"" specialioji mokykla";190981194;Nenustatyta
+3;"Vilniaus ""Atþalyno"" mokykla-darþelis";191665861;Nenustatyta
+4;"Vilniaus ""Auðros"" mokykla-darþelis";190032365;Nenustatyta
+5;"Vilniaus ""Àþuolyno"" progimnazija";190006395;Nenustatyta
+6;"Vilniaus ""Genio"" progimnazija";191665719;Nenustatyta
+7;"Vilniaus ""Gijos"" jaunimo mokykla";290010850;Nenustatyta
+8;"Vilniaus ""Juventos"" gimnazija";190008599;Nenustatyta
+9;"Vilniaus ""Laisvës"" gimnazija";190007682;Nenustatyta
+10;"Vilniaus ""Minties"" gimnazija";190005717;Nenustatyta
+11;"Vilniaus ""Pelëdos"" pradinë mokykla";190016165;Nenustatyta
+12;"Vilniaus ""Ryto"" progimnazija";190006057;Nenustatyta
+13;"Vilniaus ""Santaros"" gimnazija";304089960;Nenustatyta
+14;"Vilniaus ""Santaros"" progimnazija";304089978;Nenustatyta
+15;"Vilniaus ""Saulëtekio"" mokykla-daugiafunkcis centras";190007497;Nenustatyta
+16;"Vilniaus ""Sietuvos"" progimnazija";190008784;Nenustatyta
+17;"Vilniaus ""Spindulio"" progimnazija";190006242;Nenustatyta
+18;"Vilniaus ""Ðviesos"" pradinë mokykla";191665480;Nenustatyta
+19;"Vilniaus ""Taikos"" progimnazija";195007889;Nenustatyta
+20;"Vilniaus ""Varpo"" suaugusiøjø gimnazija";190009886;Nenustatyta
+21;"Vilniaus ""Vilnies"" pagrindinë mokykla";191715435;Nenustatyta
+22;"Vilniaus ""Vilties"" specialioji mokykla-daugiafunkcinis centras";190034188;Nenustatyta
+23;"Vilniaus ""Vyturio"" pradinë mokykla";190009167;Nenustatyta
+24;"Vilniaus ""Þaros"" gimnazija";190007910;Nenustatyta
+25;"Vilniaus ""Þiburio"" pradinë mokykla";190022638;Nenustatyta
+26;"Vilniaus ""Þidinio"" suaugusiøjø gimnazija";190009733;Nenustatyta
+27;Vilniaus Abraomo Kulvieèio klasikinë gimnazija;195005870;Nenustatyta
+28;Vilniaus Adomo Mickevièiaus gimnazija;190006961;Nenustatyta
+29;Vilniaus Aleksandro Puðkino mokykla;190003470;Nenustatyta
+30;Vilniaus Antakalnio gimnazija;302817872;Nenustatyta
+31;Vilniaus Antakalnio progimnazija;302818006;Nenustatyta
+32;Vilniaus Antano Vienuolio progimnazija;300134205;Nenustatyta
+33;Vilniaus Balsiø progimnazija;302589995;Nenustatyta
+34;Vilniaus Baltupiø progimnazija;190000894;Nenustatyta
+35;Vilniaus Barboros Radvilaitës progimnazija;195474280;Nenustatyta
+36;"Vilniaus darþelis - mokykla ""Saulutë""";190022061;Nenustatyta
+37;"Vilniaus darþelis - mokykla ""Vaivorykðtë""";190013393;Nenustatyta
+39;"Vilniaus darþelis-mokykla ""Dainorëliai""";190012291;Nenustatyta
+40;"Vilniaus darþelis-mokykla ""Lokiukas""";190028139;Nenustatyta
+41;"Vilniaus darþelis-mokykla ""Ðaltinëlis""";190021689;Nenustatyta
+42;"Vilniaus darþelis-mokykla ""Svaja""";190026654;Nenustatyta
+43;"Vilniaus darþelis-mokykla ""Vilija""";190022976;Nenustatyta
+45;Vilniaus Emilijos Pliaterytës progimnazija;195472653;Nenustatyta
+46;Vilniaus Fabijoniðkiø mokykla;190003851;Nenustatyta
+47;Vilniaus Filaretø pradinë mokykla;190004234;Nenustatyta
+48;Vilniaus Gabijos gimnazija;190003513;Nenustatyta
+49;Vilniaus Gabrielës Petkevièaitës-Bitës suaugusiøjø mokymo centras;291710460;Nenustatyta
+50;Vilniaus Gedimino technikos universiteto inþinerijos licëjus;190001843;Nenustatyta
+51;Vilniaus Gerosios Vilties progimnazija;190004615;Nenustatyta
+52;Vilniaus Jeruzalës progimnazija;190000937;Nenustatyta
+53;Vilniaus Joachimo Lelevelio inþinerijos gimnazija;190000175;Nenustatyta
+54;Vilniaus Jono Basanavièiaus gimnazija;302522904;Nenustatyta
+55;Vilniaus Jono Basanavièiaus progimnazija;302523034;Nenustatyta
+56;Vilniaus Jono Ivaðkevièiaus jaunimo mokykla;191709681;Nenustatyta
+57;Vilniaus Jono Pauliaus II gimnazija;191715588;Nenustatyta
+58;Vilniaus Jono Pauliaus II progimnazija;195472315;Nenustatyta
+59;Vilniaus Juzefo Ignacijaus Kraðevskio gimnazija;190007878;Nenustatyta
+60;Vilniaus karaliaus Mindaugo mokykla;190005336;Nenustatyta
+61;Vilniaus Karoliniðkiø gimnazija;190008631;Nenustatyta
+62;Vilniaus Lazdynø mokykla;190005489;Nenustatyta
+63;Vilniaus Levo Karsavino mokykla;190002411;Nenustatyta
+64;Vilniaus licëjus;291221220;Nenustatyta
+65;Vilniaus Liepkalnio mokykla;190007159;Nenustatyta
+66;Vilniaus Maironio progimnazija;190002564;Nenustatyta
+67;Vilniaus Martyno Maþvydo progimnazija;195003862;Nenustatyta
+68;Vilniaus Medeinos pradinë mokykla;190032746;Nenustatyta
+69;Vilniaus Mykolo Birþiðkos gimnazija;190003328;Nenustatyta
+70;Vilniaus Naujamiesèio mokykla;290004420;Nenustatyta
+71;Vilniaus Naujininkø mokykla;190007344;Nenustatyta
+72;Vilniaus Ozo gimnazija;190009014;Nenustatyta
+73;Vilniaus Pavilnio pagrindinë mokykla;190008065;Nenustatyta
+74;Vilniaus Petro Vileiðio progimnazija;195008119;Nenustatyta
+75;Vilniaus Pilaitës gimnazija;190006438;Nenustatyta
+76;Vilniaus Pranciðkaus Skorinos gimnazija;191722390;Nenustatyta
+77;Vilniaus Prano Maðioto pradinë mokykla;195008076;Nenustatyta
+78;Vilniaus Radvilø gimnazija;190003285;Nenustatyta
+79;Vilniaus Salininkø gimnazija;191317118;Nenustatyta
+80;Vilniaus Salomëjos Nëries gimnazija;190004387;Nenustatyta
+81;Vilniaus Sausio 13-osios mokykla;190005293;Nenustatyta
+82;"Vilniaus savivaldybës Grigiðkiø ""Ðviesos"" gimnazija";190661671;Nenustatyta
+83;"Vilniaus savivaldybës Grigiðkiø darþelis-mokykla ""Pelëdþiukas""";190648396;Nenustatyta
+84;Vilniaus savivaldybës Grigiðkiø gimnazija;190661333;Nenustatyta
+85;Vilniaus savivaldybës Grigiðkiø pradinë mokykla;190648581;Nenustatyta
+87;Vilniaus Senvagës gimnazija;190002226;Nenustatyta
+88;Vilniaus Ðeðkinës pradinë mokykla;191713384;Nenustatyta
+89;Vilniaus Ðilo mokykla;191722433;Nenustatyta
+90;Vilniaus Simono Daukanto gimnazija;301806652;Nenustatyta
+91;Vilniaus Simono Daukanto progimnazija;301806638;Nenustatyta
+92;Vilniaus Simono Konarskio mokykla;190005140;Nenustatyta
+93;Vilniaus Simono Stanevièiaus progimnazija;290008970;Nenustatyta
+94;Vilniaus Sofijos Kovalevskajos gimnazija;304075188;Nenustatyta
+95;Vilniaus Sofijos Kovalevskajos progimnazija;304075156;Nenustatyta
+96;Vilniaus Ðolomo Aleichemo ORT gimnazija;190009352;Nenustatyta
+97;"Vilniaus specialiojo ugdymo centras ""Aidas""";190017790;Nenustatyta
+98;Vilniaus suaugusiøjø mokymo centras;190009548;Nenustatyta
+99;Vilniaus ðv. Kristoforo gimnazija;302420721;Nenustatyta
+100;Vilniaus ðv. Kristoforo progimnazija;302420714;Nenustatyta
+101;Vilniaus Trakø Vokës gimnazija;191317260;Nenustatyta
+102;Vilniaus Tuskulënø gimnazija;190002030;Nenustatyta
+103;Vilniaus Uþupio gimnazija;190001124;Nenustatyta
+104;Vilniaus Vaduvos darþelis-mokykla;290013960;Nenustatyta
+105;Vilniaus Vasilijaus Kaèialovo gimnazija;290005860;Nenustatyta
+106;Vilniaus Verkiø mokykla-daugiafunkcis centras;190981237;Verkiø g. 62, LT-09128, Vilnius
+107;Vilniaus Vilkpëdës darþelis-mokykla;190016699;Nenustatyta
+108;Vilniaus Virðuliðkiø progimnazija;190002379;Nenustatyta
+109;Vilniaus Vytauto Didþiojo gimnazija;300134269;Nenustatyta
+110;Vilniaus Vytës Nemunëlio pradinë mokykla;195472468;Nenustatyta
+111;Vilniaus Vladislavo Sirokomlës gimnazija;190001462;Nenustatyta
+112;Vilniaus Volungës darþelis-mokykla;191713046;Nenustatyta
+113;Vilniaus Þaliakalnio darþelis-mokykla;191713231;Nenustatyta
+114;Vilniaus Þemynos gimnazija;190008827;Nenustatyta
+115;Vilniaus Þemynos progimnazija;295472120;Nenustatyta
+116;Vilniaus Þëruèio pradinë mokykla;195007921;Nenustatyta
+117;Vilniaus Þirmûnø gimnazija;190000360;Nenustatyta
+118;Vilniaus Þygimanto Augusto pagrindinë mokykla;290003090;Nenustatyta
+119;Vilniaus Þvëryno gimnazija;190001081;Nenustatyta
+120;"Vilniaus ""Vilnios"" pagrindinë mokykla";190978974;Nenustatyta
+121;Vilniaus sporto mokykla ,,Tauras“;190010479;Þygio g. 46, LT-08232 Vilnius
+123;Vilniaus miesto sporto centras;303305444;Kauno g. 43, LT- 03203, Vilnius
+124;Vilniaus futbolo mokykla;124192115;P. Þadeikos g. 2, LT-06318 Vilnius
+125;Vilniaus krepðinio mokykla;190010326;Birþelio 23-iosios g. 10A, Vilnius, LT-03205
+126;Karoliniðkiø muzikos mokykla;191662566;L. Asanavièiûtës g. 1, LT-04300 Vilnius
+127;Vilniaus muzikos mokykla „Lyra“;191663091;Taikos g. 47, LT-05260 Vilnius
+128;Vilniaus Algirdo muzikos mokykla;191662413;Algirdo g. 23/6, Vilnius LT-03219
+129;Vilniaus „Àþuoliuko“ muzikos mokykla;191662751;Gedimino pr. 15A, Vilnius, LT-01103
+130;Vilniaus Balio Dvariono deðimtmetë muzikos  mokykla;191662185;T. Kosciuðkos g. 13, LT-01100 Vilnius
+131;Vilniaus Broniaus Jonuðo muzikos mokykla;191662370;Dariaus ir Girëno g. 16, Vilnius
+132;Vilniaus Naujosios Vilnios muzikos mokykla;191662228;Karklënø g. 9, Vilnius 11223
+133;Vilniaus Justino Vienoþinskio dailës mokykla;191663134;S. Konarskio g. 37, LT-03123, Vilnius
+134;Vilniaus Grigiðkiø meno mokykla;191818093;Paðto g.10, Grigiðkës, Vilnius LT-27105
