@@ -20,7 +20,7 @@ ID;INSTITUTION;INSTITUTION_CODE;LANGUAGE;CHILD_QUOTA;CLASS_COUNT;CLASS;QUOTA_YEA
 78;"Vilniaus Radvilų gimnazija";190003285;en;0;0;1;2017;1
 78;"Vilniaus Radvilų gimnazija";190003285;lt;0;0;1;2017;1065
 69;"Vilniaus Mykolo Biržiškos gimnazija";190003328;lt;0;0;1;2017;1793
-29;"Vilniaus Aleksandro Puškino mokykla";190003470;ru;89;4;1;2017;706
+29;"Vilniaus Aleksandro Puškino gimnazija";190003470;ru;89;4;1;2017;706
 48;"Vilniaus Gabijos gimnazija";190003513;lt;96;4;1;2017;3151
 48;"Vilniaus Gabijos gimnazija";190003513;ru;96;4;1;2017;2
 1;"Vilniaus ""Ateities"" mokykla";190003666;ru;80;4;1;2017;457
@@ -30,7 +30,7 @@ ID;INSTITUTION;INSTITUTION_CODE;LANGUAGE;CHILD_QUOTA;CLASS_COUNT;CLASS;QUOTA_YEA
 47;"Vilniaus Filaretų pradinė mokykla";190004234;ru;96;4;1;2017;1
 80;"Vilniaus Salomėjos Nėries gimnazija";190004387;lt;0;0;1;2017;747
 51;"Vilniaus Gerosios Vilties progimnazija";190004615;lt;96;4;1;2017;563
-92;"Vilniaus Simono Konarskio mokykla";190005140;pl;66;3;1;2017;384
+92;"Vilniaus Simono Konarskio gimnazija";190005140;pl;66;3;1;2017;384
 81;"Vilniaus Sausio 13-osios progimnazija";190005293;lt;48;2;1;2017;711
 60;"Vilniaus karaliaus Mindaugo mokykla";190005336;lt;50;2;1;2017;680
 62;"Vilniaus Lazdynų mokykla";190005489;lt;35;2;1;2017;243
@@ -93,8 +93,8 @@ ID;INSTITUTION;INSTITUTION_CODE;LANGUAGE;CHILD_QUOTA;CLASS_COUNT;CLASS;QUOTA_YEA
 79;"Vilniaus Salininkų gimnazija";191317118;lt;44;2;1;2017;374
 101;"Vilniaus Trakų Vokės gimnazija";191317260;lt;40;2;1;2017;289
 18;"Vilniaus ""Šviesos"" pradinė mokykla";191665480;lt;96;4;1;2017;701
-6;"Vilniaus ""Genio"" progimnazija";191665719;lt;168;7;1;2017;2504
-6;"Vilniaus ""Genio"" progimnazija";191665719;ru;168;7;1;2017;1
+6;"Vilniaus kunigaikščio Gedimino progimnazija";191665719;lt;168;7;1;2017;2504
+6;"Vilniaus kunigaikščio Gedimino progimnazija";191665719;ru;168;7;1;2017;1
 3;"Vilniaus ""Atžalyno"" mokykla-darželis";191665861;lt;48;2;1;2017;230
 56;"Vilniaus Jono Ivaškevičiaus jaunimo mokykla";191709681;lt;0;0;1;2017;25
 112;"Vilniaus Volungės darželis-mokykla";191713046;lt;24;1;1;2017;264
