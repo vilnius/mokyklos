@@ -6,16 +6,16 @@ ID;INSTITUTION;INSTITUTION_CODE;LANGUAGE;CHILD_QUOTA;CLASS_COUNT;CLASS;QUOTA_YEA
 4;"Vilniaus „Aušros“ mokykla-darželis";190032365;lt;24;1;1;2017;655
 5;"Vilniaus ""Ąžuolyno"" progimnazija";190006395;lt;78;3;1;2017;2726
 5;"Vilniaus ""Ąžuolyno"" progimnazija";190006395;ru;78;3;1;2017;2
-6;"Vilniaus kunigaikščio Gedimino progimnazija";191665719;lt;168;7;1;2017;4639
+6;"Vilniaus kunigaikščio Gedimino progimnazija";191665719;lt;168;7;1;2017;4640
 6;"Vilniaus kunigaikščio Gedimino progimnazija";191665719;ru;168;7;1;2017;1
-7;"Vilniaus ""Gijos"" jaunimo mokykla";290010850;lt;0;0;1;2017;128
+7;"Vilniaus ""Gijos"" jaunimo mokykla";290010850;lt;0;0;1;2017;129
 8;"Vilniaus ""Juventos"" gimnazija";190008599;ru;0;0;1;2017;762
 8;"Vilniaus ""Juventos"" gimnazija";190008599;lt;0;0;1;2017;70
 9;"Vilniaus ""Laisvės"" gimnazija";190007682;lt;0;0;1;2017;999
 10;"Vilniaus ""Minties"" gimnazija";190005717;lt;0;0;1;2017;1503
 10;"Vilniaus ""Minties"" gimnazija";190005717;ru;0;0;1;2017;1
 11;"Vilniaus „Pelėdos” pradinė mokykla";190016165;lt;72;3;1;2017;900
-12;"Vilniaus Ryto progimnazija";190006057;lt;72;3;1;2017;1672
+12;"Vilniaus Ryto progimnazija";190006057;lt;72;3;1;2017;1673
 12;"Vilniaus Ryto progimnazija";190006057;ru;72;3;1;2017;2
 13;"Vilniaus ""Santaros"" gimnazija";304089960;ru;0;0;1;2017;1304
 13;"Vilniaus ""Santaros"" gimnazija";304089960;lt;0;0;1;2017;23
@@ -23,7 +23,7 @@ ID;INSTITUTION;INSTITUTION_CODE;LANGUAGE;CHILD_QUOTA;CLASS_COUNT;CLASS;QUOTA_YEA
 13;"Vilniaus ""Santaros"" gimnazija";304089960;en;0;0;1;2017;1
 14;"Vilniaus ""Santaros"" progimnazija";304089978;ru;50;2;1;2017;495
 14;"Vilniaus ""Santaros"" progimnazija";304089978;lt;50;2;1;2017;1
-15;"Vilniaus Saulėtekio mokykla-daugiafunkcinis centras";190007497;ru;66;3;1;2017;716
+15;"Vilniaus Saulėtekio mokykla-daugiafunkcinis centras";190007497;ru;66;3;1;2017;717
 15;"Vilniaus Saulėtekio mokykla-daugiafunkcinis centras";190007497;lt;66;3;1;2017;3
 15;"Vilniaus Saulėtekio mokykla-daugiafunkcinis centras";190007497;be;66;3;1;2017;3
 16;"Vilniaus ""Sietuvos"" progimnazija";190008784;lt;75;3;1;2017;2013
@@ -32,7 +32,7 @@ ID;INSTITUTION;INSTITUTION_CODE;LANGUAGE;CHILD_QUOTA;CLASS_COUNT;CLASS;QUOTA_YEA
 18;"Vilniaus ""Šviesos"" pradinė mokykla";191665480;ru;96;4;1;2017;1
 19;"Vilniaus Taikos progimnazija";195007889;lt;72;3;1;2017;2189
 19;"Vilniaus Taikos progimnazija";195007889;ru;72;3;1;2017;1
-20;"Vilniaus ""Varpo"" suaugusiųjų gimnazija";190009886;lt;0;0;1;2017;242
+20;"Vilniaus ""Varpo"" suaugusiųjų gimnazija";190009886;lt;0;0;1;2017;243
 21;"Vilniaus Pavilnio progimnazija";191715435;lt;24;1;1;2017;771
 120;"Vilnios „Vilnios“ pagrindinė mokykla";190978974;lt;16;1;1;2017;458
 22;"Vilniaus „Vilties“ specialioji mokykla-daugiafunkcinis centras";190034188;lt;0;0;1;2017;117
@@ -43,11 +43,11 @@ ID;INSTITUTION;INSTITUTION_CODE;LANGUAGE;CHILD_QUOTA;CLASS_COUNT;CLASS;QUOTA_YEA
 24;"Vilniaus ""Žaros"" gimnazija";190007910;lt;65;3;1;2017;2
 24;"Vilniaus ""Žaros"" gimnazija";190007910;pl;65;3;1;2017;1
 25;"Vilniaus ""Žiburio"" pradinė mokykla";190022638;lt;72;3;1;2017;1300
-26;"Vilniaus ""Židinio"" suaugusiųjų gimnazija";190009733;lt;0;0;1;2017;632
+26;"Vilniaus ""Židinio"" suaugusiųjų gimnazija";190009733;lt;0;0;1;2017;633
 27;"Vilniaus Abraomo Kulviečio klasikinė gimnazija";195005870;lt;96;4;1;2017;2285
 28;"Vilniaus Adomo Mickevičiaus licėjus";190006961;pl;0;0;1;2017;667
 28;"Vilniaus Adomo Mickevičiaus licėjus";190006961;lt;0;0;1;2017;1
-29;"Vilniaus Aleksandro Puškino gimnazija";190003470;ru;89;4;1;2017;1345
+29;"Vilniaus Aleksandro Puškino gimnazija";190003470;ru;89;4;1;2017;1346
 29;"Vilniaus Aleksandro Puškino gimnazija";190003470;lt;89;4;1;2017;7
 29;"Vilniaus Aleksandro Puškino gimnazija";190003470;be;89;4;1;2017;2
 30;"Vilniaus Antakalnio gimnazija";302817872;lt;0;0;1;2017;2325
@@ -55,7 +55,7 @@ ID;INSTITUTION;INSTITUTION_CODE;LANGUAGE;CHILD_QUOTA;CLASS_COUNT;CLASS;QUOTA_YEA
 31;"Vilniaus Antakalnio progimnazija";302818006;lt;120;5;1;2017;3508
 31;"Vilniaus Antakalnio progimnazija";302818006;ru;120;5;1;2017;3
 31;"Vilniaus Antakalnio progimnazija";302818006;pl;120;5;1;2017;1
-32;"Vilniaus Antano Vienuolio progimnazija";300134205;lt;72;3;1;2017;2323
+32;"Vilniaus Antano Vienuolio progimnazija";300134205;lt;72;3;1;2017;2324
 33;"Vilniaus Balsių progimnazija";302589995;lt;96;4;1;2017;1599
 34;"Vilniaus Baltupių progimnazija";190000894;lt;96;4;1;2017;1938
 34;"Vilniaus Baltupių progimnazija";190000894;ru;96;4;1;2017;1
@@ -66,7 +66,7 @@ ID;INSTITUTION;INSTITUTION_CODE;LANGUAGE;CHILD_QUOTA;CLASS_COUNT;CLASS;QUOTA_YEA
 37;"Vilniaus darželis - mokykla „Vaivorykštė“";190013393;ru;52;2;1;2017;714
 37;"Vilniaus darželis - mokykla „Vaivorykštė“";190013393;lt;52;2;1;2017;2
 38;"Vilniaus lopšelis-darželis „Berželis“";190026120;ru;0;0;1;2017;21
-39;"Vilniaus darželis-mokykla „Dainorėliai“";190012291;lt;22;1;1;2017;472
+39;"Vilniaus darželis-mokykla „Dainorėliai“";190012291;lt;22;1;1;2017;473
 40;"Vilniaus darželis-mokykla „Lokiukas“";190028139;ru;52;2;1;2017;563
 40;"Vilniaus darželis-mokykla „Lokiukas“";190028139;be;52;2;1;2017;2
 40;"Vilniaus darželis-mokykla „Lokiukas“";190028139;lt;52;2;1;2017;2
@@ -94,10 +94,10 @@ ID;INSTITUTION;INSTITUTION_CODE;LANGUAGE;CHILD_QUOTA;CLASS_COUNT;CLASS;QUOTA_YEA
 51;"Vilniaus Gerosios Vilties progimnazija";190004615;lt;96;4;1;2017;1059
 52;"Vilniaus Jeruzalės progimnazija";190000937;lt;96;4;1;2017;1939
 52;"Vilniaus Jeruzalės progimnazija";190000937;en;96;4;1;2017;1
-53;"Vilniaus Joachimo Lelevelio inžinerijos gimnazija";190000175;ru;20;1;1;2017;1016
+53;"Vilniaus Joachimo Lelevelio inžinerijos gimnazija";190000175;ru;20;1;1;2017;1018
 53;"Vilniaus Joachimo Lelevelio inžinerijos gimnazija";190000175;pl;20;1;1;2017;414
 53;"Vilniaus Joachimo Lelevelio inžinerijos gimnazija";190000175;lt;20;1;1;2017;6
-54;"Vilniaus Jono Basanavičiaus gimnazija";302522904;lt;0;0;1;2017;1912
+54;"Vilniaus Jono Basanavičiaus gimnazija";302522904;lt;0;0;1;2017;1911
 54;"Vilniaus Jono Basanavičiaus gimnazija";302522904;ru;0;0;1;2017;1
 55;"Vilniaus Jono Basanavičiaus progimnazija";302523034;lt;96;4;1;2017;2555
 55;"Vilniaus Jono Basanavičiaus progimnazija";302523034;ru;96;4;1;2017;2
@@ -109,13 +109,13 @@ ID;INSTITUTION;INSTITUTION_CODE;LANGUAGE;CHILD_QUOTA;CLASS_COUNT;CLASS;QUOTA_YEA
 58;"Vilniaus Jono Pauliaus II progimnazija";195472315;lt;100;4;1;2017;4
 58;"Vilniaus Jono Pauliaus II progimnazija";195472315;ru;100;4;1;2017;1
 59;"Vilniaus Juzefo Ignacijaus Kraševskio gimnazija";190007878;pl;20;1;1;2017;427
-60;"Vilniaus karaliaus Mindaugo mokykla";190005336;lt;50;2;1;2017;1513
+60;"Vilniaus karaliaus Mindaugo mokykla";190005336;lt;50;2;1;2017;1514
 61;"Vilniaus Karoliniškių gimnazija";190008631;lt;0;0;1;2017;2372
 62;"Vilniaus Lazdynų mokykla";190005489;ru;35;2;1;2017;3357
 62;"Vilniaus Lazdynų mokykla";190005489;lt;35;2;1;2017;453
 62;"Vilniaus Lazdynų mokykla";190005489;pl;35;2;1;2017;1008
 62;"Vilniaus Lazdynų mokykla";190005489;be;35;2;1;2017;3
-63;"Vilniaus Levo Karsavino mokykla";190002411;ru;72;3;1;2017;2104
+63;"Vilniaus Levo Karsavino mokykla";190002411;ru;72;3;1;2017;2106
 63;"Vilniaus Levo Karsavino mokykla";190002411;lt;72;3;1;2017;8
 63;"Vilniaus Levo Karsavino mokykla";190002411;be;72;3;1;2017;11
 65;"Vilniaus Liepkalnio mokykla";190007159;ru;48;2;1;2017;866
@@ -132,7 +132,7 @@ ID;INSTITUTION;INSTITUTION_CODE;LANGUAGE;CHILD_QUOTA;CLASS_COUNT;CLASS;QUOTA_YEA
 70;"Vilniaus Naujamiesčio mokykla";290004420;ru;40;2;1;2017;1234
 70;"Vilniaus Naujamiesčio mokykla";290004420;lt;40;2;1;2017;5
 70;"Vilniaus Naujamiesčio mokykla";290004420;be;40;2;1;2017;1
-71;"Vilniaus Naujininkų progimnazija";190007344;lt;57;3;1;2017;811
+71;"Vilniaus Naujininkų progimnazija";190007344;lt;57;3;1;2017;812
 71;"Vilniaus Naujininkų progimnazija";190007344;ru;57;3;1;2017;4
 73;"Vilniaus Pavilnio pagrindinė mokykla";190008065;pl;7;1;1;2017;188
 73;"Vilniaus Pavilnio pagrindinė mokykla";190008065;ru;7;1;1;2017;578
@@ -144,24 +144,24 @@ ID;INSTITUTION;INSTITUTION_CODE;LANGUAGE;CHILD_QUOTA;CLASS_COUNT;CLASS;QUOTA_YEA
 76;"Vilniaus Pranciškaus Skorinos gimnazija";191722390;ru;20;1;1;2017;60
 76;"Vilniaus Pranciškaus Skorinos gimnazija";191722390;lt;20;1;1;2017;3
 76;"Vilniaus Pranciškaus Skorinos gimnazija";191722390;pl;20;1;1;2017;1
-77;"Vilniaus Prano Mašioto pradinė mokykla";195008076;lt;96;4;1;2017;1449
+77;"Vilniaus Prano Mašioto pradinė mokykla";195008076;lt;96;4;1;2017;1450
 78;"Vilniaus Radvilų gimnazija";190003285;lt;0;0;1;2017;2031
 78;"Vilniaus Radvilų gimnazija";190003285;en;0;0;1;2017;1
 79;"Vilniaus Salininkų gimnazija";191317118;lt;44;2;1;2017;785
-80;"Vilniaus Salomėjos Nėries gimnazija";190004387;lt;0;0;1;2017;1809
+80;"Vilniaus Salomėjos Nėries gimnazija";190004387;lt;0;0;1;2017;1808
 81;"Vilniaus Sausio 13-osios progimnazija";190005293;lt;48;2;1;2017;1503
 82;"Vilniaus savivaldybės Grigiškių ""Šviesos"" gimnazija";190661671;lt;0;0;1;2017;974
 83;"Vilniaus savivaldybės Grigiškių lopšelis-darželis „Pelėdžiukas“";190648396;lt;24;1;1;2017;111
-84;"Vilniaus savivaldybės Grigiškių gimnazija";190661333;ru;30;2;1;2017;930
+84;"Vilniaus savivaldybės Grigiškių gimnazija";190661333;ru;30;2;1;2017;932
 84;"Vilniaus savivaldybės Grigiškių gimnazija";190661333;pl;30;2;1;2017;202
 85;"Vilniaus savivaldybės Grigiškių pradinė mokykla";190648581;lt;66;3;1;2017;342
 86;"Vilniaus Senamiesčio mokykla";190006819;ru;0;0;1;2017;23
-87;"Vilniaus Senvagės gimnazija";190002226;lt;0;0;1;2017;2436
+87;"Vilniaus Senvagės gimnazija";190002226;lt;0;0;1;2017;2437
 87;"Vilniaus Senvagės gimnazija";190002226;ru;0;0;1;2017;1
 88;"Vilniaus Šeškinės pradinė mokykla";191713384;lt;72;3;1;2017;981
-90;"Vilniaus Simono Daukanto gimnazija";301806652;lt;0;0;1;2017;5224
+90;"Vilniaus Simono Daukanto gimnazija";301806652;lt;0;0;1;2017;5225
 90;"Vilniaus Simono Daukanto gimnazija";301806652;ru;0;0;1;2017;1
-91;"Vilniaus Simono Daukanto progimnazija";301806638;lt;96;4;1;2017;3153
+91;"Vilniaus Simono Daukanto progimnazija";301806638;lt;96;4;1;2017;3154
 92;"Vilniaus Simono Konarskio gimnazija";190005140;pl;66;3;1;2017;651
 93;"Vilniaus Simono Stanevičiaus progimnazija";290008970;lt;96;4;1;2017;2154
 93;"Vilniaus Simono Stanevičiaus progimnazija";290008970;ru;96;4;1;2017;6
@@ -174,7 +174,7 @@ ID;INSTITUTION;INSTITUTION_CODE;LANGUAGE;CHILD_QUOTA;CLASS_COUNT;CLASS;QUOTA_YEA
 96;"Vilniaus Šolomo Aleichemo ORT gimnazija";190009352;lt;52;2;1;2017;1516
 96;"Vilniaus Šolomo Aleichemo ORT gimnazija";190009352;ru;52;2;1;2017;9
 97;"Vilniaus specialiojo ugdymo centras ""Aidas""";190017790;lt;0;0;1;2017;13
-99;"Vilniaus šv. Kristoforo gimnazija";302420721;lt;0;0;1;2017;2976
+99;"Vilniaus šv. Kristoforo gimnazija";302420721;lt;0;0;1;2017;2975
 100;"Vilniaus šv. Kristoforo progimnazija";302420714;lt;72;3;1;2017;3168
 100;"Vilniaus šv. Kristoforo progimnazija";302420714;en;72;3;1;2017;1
 100;"Vilniaus šv. Kristoforo progimnazija";302420714;ru;72;3;1;2017;2
@@ -185,12 +185,12 @@ ID;INSTITUTION;INSTITUTION_CODE;LANGUAGE;CHILD_QUOTA;CLASS_COUNT;CLASS;QUOTA_YEA
 103;"Vilniaus Užupio gimnazija";190001124;lt;0;0;1;2017;3239
 104;"Vilniaus Vaduvos darželis-mokykla";290013960;lt;48;2;1;2017;247
 104;"Vilniaus Vaduvos darželis-mokykla";290013960;ru;48;2;1;2017;1
-105;"Vilniaus Vasilijaus Kačialovo gimnazija";290005860;ru;0;0;1;2017;1667
+105;"Vilniaus Vasilijaus Kačialovo gimnazija";290005860;ru;0;0;1;2017;1668
 105;"Vilniaus Vasilijaus Kačialovo gimnazija";290005860;lt;0;0;1;2017;4
 105;"Vilniaus Vasilijaus Kačialovo gimnazija";290005860;be;0;0;1;2017;3
 105;"Vilniaus Vasilijaus Kačialovo gimnazija";290005860;en;0;0;1;2017;1
 107;"Vilniaus Vilkpėdės lopšelis-darželis";190016699;lt;0;0;1;2017;17
-108;"Vilniaus Viršuliškių progimnazija";190002379;lt;96;4;1;2017;1312
+108;"Vilniaus Viršuliškių progimnazija";190002379;lt;96;4;1;2017;1311
 108;"Vilniaus Viršuliškių progimnazija";190002379;ru;96;4;1;2017;1
 109;"Vilniaus Vytauto Didžiojo gimnazija";300134269;lt;0;0;1;2017;4386
 110;"Vilniaus Vytės Nemunėlio pradinė mokykla";195472468;lt;66;3;1;2017;1770
@@ -209,4 +209,4 @@ ID;INSTITUTION;INSTITUTION_CODE;LANGUAGE;CHILD_QUOTA;CLASS_COUNT;CLASS;QUOTA_YEA
 117;"Vilniaus Žirmūnų gimnazija";190000360;lt;0;0;1;2017;3015
 117;"Vilniaus Žirmūnų gimnazija";190000360;en;0;0;1;2017;1
 118;"Vilniaus Žygimanto Augusto progimnazija";290003090;lt;66;3;1;2017;1686
-119;"Vilniaus Žvėryno gimnazija";190001081;lt;0;0;1;2017;3048
+119;"Vilniaus Žvėryno gimnazija";190001081;lt;0;0;1;2017;3049
